@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'cursoangular';
+
+  titulos: string[];
+
+  constructor() {
+    this.titulos = ['Busca de inplacable', 'Terminator', 'King the land'];
+  }
+
+  onAlertaPulsada($event: any) {
+    console.log($event);
+  }
+
 }

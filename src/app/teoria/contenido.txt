@@ -1,0 +1,6 @@
+
+/--------------------------------------------- Curso de Angular 
+
+Una de las principales caracteristicas de los compoenentes es el encapsulamiento, cada estilo que nosotros definados o texto edito 
+unicamente le va afectar al componente que tenenmos
+
